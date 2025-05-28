@@ -1,0 +1,12 @@
+img {
+    display: block;
+    background-color: gainsboro;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul li {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
